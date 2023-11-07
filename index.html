@@ -143,5 +143,24 @@
 	Collect from <a href="http://www.cssmoban.com/"  title="网站模板">模板之家</a>
 	<a href="https://www.chazidian.com/"  title="查字典">查字典</a>
 </div>
+	   <p>您是第<span id="visitor-count">0</span>位访问此页面的人。</p>
+
+  <script>
+    // JavaScript 代码用于更新访问人数
+    // 你可以使用后端服务器来更准确地跟踪访问次数
+    let visitorCount = 0;
+
+    // 从本地存储中获取已保存的访问人数
+    if (localStorage.getItem("visitorCount")) {
+      visitorCount = parseInt(localStorage.getItem("visitorCount"));
+    }
+
+    // 更新访问人数并将其显示在页面上
+    visitorCount++;
+    document.getElementById("visitor-count").textContent = visitorCount;
+
+    // 将访问人数保存到本地存储中
+    localStorage.setItem("visitorCount", visitorCount);
+  </script>
 </body>
 </html>
