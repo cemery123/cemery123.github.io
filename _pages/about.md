@@ -11,7 +11,7 @@ My name is Zhihao Xu though you can call me hosea. Meanwhile i am pursuing my Ph
 
 Research Focus
 ======
-My research interests span __software engineering, electronic design automation, software resilience,and program analysis__.My primary research interests are:
+My research interests span __software engineering, electronic design automation, software resilience and program analysis__.My primary research interests are:
  
  - FPGA simulation software testing
  - EDA softeware optimize
