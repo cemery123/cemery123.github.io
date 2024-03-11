@@ -22,6 +22,11 @@ Attention
 1. We are focusing on transformation between Simulink model and HDL(Hardware Design Language) using HDL Coder, if you have any advice please let us know. We will be pleased to talk wit you
 2. I am looking for any Post-doc position in 2027/2028 if you are intrest in my CV please don't hesitated to email me.
 
+Intrest
+======
+My favorite sport is football, and I am a fans of AC Milan. I also have strong intrests in table tennis Pingpang and Basketball. I like games which will let me ponder. And I am also a veteran Red Alert player. Moreover if you can play FIFA online or 2k, I'd love to communicate with you. In my spare time, I like to play football and climb mountains. Of course, food is also an essential part of life.
+
+
 <!--
 Site-wide configuration
 ------
@@ -41,8 +46,9 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+I am a christian, so I wana to send you my favorite bible verses:
+__Now faith is the substance of things hoped for, the evidence of things not seen.(Hebrews 11:1)__
