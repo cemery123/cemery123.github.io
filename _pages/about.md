@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhihao Xu though you can call me hosea. Meanwhile i am pursuing my Phd. degree of Computer Science in East South university(ECU) and Monash Univerisity(Monash) advised by Prof. Bixin Li(SEU) and Xiaoning Du(monash). Before this I got my Master degree of Computer Science in DaLian Marytime University(DLMU) advised by Prof. Shikai Guo.
+My name is Zhihao Xu though you can call me hosea. Meanwhile i am pursuing my Phd. degree of Computer Science in South East university(SEU) and Monash Univerisity(Monash) advised by Prof. Bixin Li(SEU) and Xiaoning Du(monash). Before this I got my Master degree of Computer Science in DaLian Marytime University(DLMU) advised by Prof. Shikai Guo.
 
 Research Focus
 ======
