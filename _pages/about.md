@@ -16,7 +16,7 @@ My research interests span __software engineering, electronic design automation,
  - FPGA simulation software testing
  - EDA softeware optimize
  - Software Text Analytics for Software Automation
- - Sortware Resilience
+ - Software Resilience
 
 Attention
 ======
