@@ -29,7 +29,7 @@ Attention
 
 Interests
 ======
-My favorite sport is football, and I am a fan of AC Milan. I also have a strong interest in table tennis (Ping-Pong) and basketball. I enjoy strategy games that challenge my thinking, and I am an experienced Red Alert player. Additionally, I would love to connect if you play FIFA Online or NBA 2K. In my spare time, I enjoy playing football, mountain climbing, and exploring delicious food, which I consider an essential part of life.
+My favorite sport is football, and I am a fan of AC Milan. I also have a strong interest in table tennis (Ping-Pong) and basketball. I enjoy strategy games that challenge my thinking, and I am an experienced Red Alert player. Additionally, I would love to connect if you play FIFA Online or NBA 2K. In my spare time, I enjoy playing football, mountain climbing, and exploring delicious food, which I consider as an essential part of life.
 
 Intrest
 ======
