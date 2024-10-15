@@ -7,21 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhihao Xu though you can call me hosea. Meanwhile i am pursuing my Phd. degree of Computer Science in South East university(SEU) and Monash Univerisity(Monash) advised by Prof. Bixin Li(SEU) and Xiaoning Du(Monash). Before this I got my Master degree of Computer Science in DaLian Maritime University(DLMU) advised by Prof. Shikai Guo.
+My name is Zhihao Xu, though you can call me Hosea. I am currently pursuing my Ph.D. in Computer Science at Southeast University (SEU) and Monash University, under the supervision of Prof. [Bixin Li (SEU)](https://cse.seu.edu.cn/_s191/2019/0102/c23024a257033/page.psp) and Prof. [Xiaoning Du (Monash)](https://xiaoningdu.github.io/). Prior to this, I obtained my Master’s degree in Computer Science from Dalian Maritime University (DLMU), where I was advised by Prof. Shikai Guo(DLMU) and Prof He Jiang(DLUT).
+
+Research Focus
 
 Research Focus
 ======
-My research interests span __software engineering, electronic design automation, software resilience and program analysis__.My primary research interests are:
+My research interests span __Software Engineering, AI4SE, Software Testing and Program Analysis__.My primary research interests are:
  
  - FPGA simulation software testing
  - EDA softeware optimize
  - Software Text Analytics for Software Automation
  - Software Resilience
+ - AI for Automated Software Testing
 
 Attention
 ======
-1. We are focusing on transformation between Simulink model and HDL(Hardware Design Language) using HDL Coder, if you have any advice please let us know. We will be pleased to talk wit you
-2. I am looking for any Post-doc position in 2027/2028 if you are intrest in my CV please don't hesitated to email me.
+1. We are focusing on the transformation between Simulink models and HDL (Hardware Design Language) using HDL Coder. If you have any suggestions, please feel free to reach out. I would be pleased to discuss them with you.
+2. We have strong interests in using LLM for automatic Software Testing, if you have any idea feel free to contact us.
+3. I am seeking Post-doctoral positions for 2026/2027. If you are interested in my CV, please do not hesitate to contact me via email.
+
+Interests
+======
+My favorite sport is football, and I am a fan of AC Milan. I also have a strong interest in table tennis (Ping-Pong) and basketball. I enjoy strategy games that challenge my thinking, and I am an experienced Red Alert player. Additionally, I would love to connect if you play FIFA Online or NBA 2K. In my spare time, I enjoy playing football, mountain climbing, and exploring good food, which I consider an essential part of life.
 
 Intrest
 ======
