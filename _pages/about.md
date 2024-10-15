@@ -15,11 +15,11 @@ Research Focus
 ======
 My research interests span __Software Engineering, AI4SE, Software Testing and Program Analysis__.My primary research interests are:
  
- - FPGA simulation software testing
- - EDA softeware optimize
- - Software Text Analytics for Software Automation
+ - Software Testing
+ - AI for Automatic Software Testing
  - Software Resilience
- - AI for Automated Software Testing
+ - Intelligent Software Repair
+ - Intelligent Software Engineering
 
 Attention
 ======
