@@ -13,7 +13,9 @@ My name is Zhihao Xu, though you can call me Hosea. I am currently pursuing my P
 Research Focus
 ======
 My research interests span __Software Engineering, AI4SE, Software Testing and Program Analysis__.
+
 My primary research interests are:
+
  - Software Testing
  - AI for Automatic Software Testing
  - Software Resilience
