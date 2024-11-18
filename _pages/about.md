@@ -24,7 +24,7 @@ My primary research interests are:
 
 Attention
 ======
-1. We are focusing on the transformation between Simulink models and HDL (Hardware Design Language) using HDL Coder. If you have any suggestions, please feel free to reach out. I would be pleased to discuss them with you.
+1. Our works "SIMTAM: Timing Difference Guided RTL Generation for FPGA Simulation Tools Testing" has been accepted by ACM Transactions on Design Automation of Electronic Systems! Congratulations!
 2. We have strong interests in using LLM for automatic Software Testing, if you have any idea feel free to contact us.
 3. I am seeking Post-doctoral positions for 2026/2027. If you are interested in my CV, please do not hesitate to contact me via email.
 
