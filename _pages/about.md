@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhihao Xu, though you can call me Hosea. I am currently pursuing my Ph.D. in Computer Science at Southeast University (SEU) and Monash University, under the supervision of Prof. [Bixin Li (SEU)](https://cse.seu.edu.cn/_s191/2019/0102/c23024a257033/page.psp) and Prof. [Xiaoning Du (Monash)](https://xiaoningdu.github.io/). Prior to this, I obtained my Master’s degree in Computer Science from Dalian Maritime University (DLMU), where I was advised by Prof. Shikai Guo(DLMU) and Prof He Jiang(DLUT).
+My name is Zhihao Xu, though you can call me Hosea. I am currently pursuing my Ph.D. in Computer Science at Southeast University (SEU) and Monash University, under the supervision of Prof. [Bixin Li (SEU)](https://cse.seu.edu.cn/_s191/2019/0102/c23024a257033/page.psp) and Prof. [Xiaoning Du (Monash)](https://xiaoningdu.github.io/). Prior to this, I obtained my Master’s degree in Computer Science from Dalian Maritime University (DLMU), where I was advised by [Prof. Shikai Guo(DLMU)](https://ieeexplore.ieee.org/author/37085829873) and [Prof He Jiang(DLUT)](https://faculty.dlut.edu.cn/jianghe/index.htm).
 
 
 Research Focus
