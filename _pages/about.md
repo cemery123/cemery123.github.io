@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhihao Xu, though you can call me Hosea. I am currently pursuing my Ph.D. in Computer Science at Southeast University (SEU) and Monash University, under the supervision of Prof. [Bixin Li (SEU)](https://cse.seu.edu.cn/_s191/2019/0102/c23024a257033/page.psp) and Prof. [Xiaoning Du (Monash)](https://xiaoningdu.github.io/). Prior to this, I obtained my Master’s degree in Computer Science from Dalian Maritime University (DLMU), where I was advised by Prof. [Shikai Guo(DLMU)](https://ieeexplore.ieee.org/author/37085829873) and Prof. [He Jiang(DLUT)](https://faculty.dlut.edu.cn/jianghe/index.htm).
+My name is Zhihao Xu, though you can call me Hosea. I am currently pursuing my Ph.D degree in Computer Science at Southeast University (SEU) and Monash University, advised by Prof. [Bixin Li (SEU)](https://cse.seu.edu.cn/_s191/2019/0102/c23024a257033/page.psp) and Prof. [Xiaoning Du (Monash)](https://xiaoningdu.github.io/). Prior to this, I obtained my Master degree in Computer Science from Dalian Maritime University (DLMU), where I was advised by Prof. [Shikai Guo(DLMU)](https://ieeexplore.ieee.org/author/37085829873) and Prof. [He Jiang(DLUT)](https://faculty.dlut.edu.cn/jianghe/index.htm).
 
 
 Research Focus
@@ -24,7 +24,7 @@ My primary research interests are:
 
 Attention
 ======
-1. Our works "SIMTAM: Timing Difference Guided RTL Generation for FPGA Simulation Tools Testing" has been accepted by ACM Transactions on Design Automation of Electronic Systems! Congratulations!
+1. Our work: "SIMTAM: Timing Difference Guided RTL Generation for FPGA Simulation Tools Testing" has been accepted by ACM Transactions on Design Automation of Electronic Systems! Looking through the [link](https://dl.acm.org/doi/10.1145/3705730) to check out our work!
 2. We have strong interests in using LLM for automatic Software Testing, if you have any idea feel free to contact us.
 3. I am seeking Post-doctoral positions for 2026/2027. If you are interested in my CV, please do not hesitate to contact me via email.
 
