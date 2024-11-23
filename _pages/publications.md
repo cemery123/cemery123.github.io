@@ -13,7 +13,7 @@ author_profile: true
 
 In this project, we employed a novel approach - Controlled Zombie Block Mutation (CZBM) - to detect defects in Matlab's simulation tool Simulink. Our approach leveraged the features of Simulink and successfully detected 16 Simulink defects in a two-month period, ensuring the reliability of Simulink.
 
-### [TCAD 2023] <u>Zhihao Xu</u>, He Jiang (*), Xiaochen Li, Haoyang Che, Shikai Guo (supervior), SIMTAM: Finding Bugs in FPGA Simulation Tools Via Timing Area Mutation, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (Major). (SCI, CCF A)
+### [TODAES 2024] <u>Zhihao Xu</u>, He Jiang (*), Xiaochen Li, Zun Wang, Shikai Guo (supervior), SIMTAM: Finding Bugs in FPGA Simulation Tools Via Timing Area Mutation, ACM Transactions on Design Automation of Electronic Systems. DOI:10.1145/3705730 (Accepted). (SCI, CCF B)
 
 In this paper, we proposed a new timing mutation approach to test the underlying chip simulation tool. Our novel approach targets the timing aspect of the simulation for the first time and has shown promising results. So far, we have identified five potential defects, of which two have already been fixed.
 
