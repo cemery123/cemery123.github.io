@@ -33,10 +33,10 @@ In this work, we implemented a novel FPGA synthesis test case generator. By usin
 
 In this work, we performed a transformation test on FPGA Synthesis debugger tools based on the idea of ​​differential testing. We defined four transformation methods and four transformation actions, and realized efficient automated testing of FPGA Synthesis debugger tools.
 
-### [ICSE 2025] Shikai Guo(supervior, *), Wen Zhao, <u>Zhihao Xu</u>, Xiaochen Li, He Jiang. Generating Syntax Valid Verilog Programs with Large Language Model to to Find Bugs Logic Synthesis Tools, International Conference on Software Engineering. (Submitted). (EI, CCFA)
+### [DAC 2025] Shikai Guo(supervior, *), Wen Zhao, <u>Zhihao Xu</u>, Xiaochen Li, He Jiang. Generating Syntax Valid Verilog Programs with Large Language Model to to Find Bugs Logic Synthesis Tools, International Conference on Software Engineering. (Submitted). (EI, CCFA)
 
 The excellent understanding ability of the large language model makes it an explorable generator. We use Verilog's syntax definition to fine-tune the pre-trained large language model and generate high-quality test cases. Experiments show that our method is more reliable than existing baseline methods.
 
-### [TCE 202] <u>Zhihao Xu</u>, Shikai Guo(supervior, *), Guilin Zhao, Peiyu Zou, Xiaochen Li, He Jiang, Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization. IEEE Transactions on Consumer Electronics. (Submitted). (SCI, CCF B)
+### [TCE 2024] <u>Zhihao Xu</u>, Shikai Guo(supervior, *), Guilin Zhao, Peiyu Zou, Xiaochen Li, He Jiang, Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization. IEEE Transactions on Consumer Electronics. (Submitted). (SCI, CCF B)
 
 Generative testing technology, especially fuzz testing technology, still has some shortcomings. Combined with the control flow of the code, we plan to perform mutation testing to generate more effective FPGA synthesis test cases. This solution has been proven to be feasible.
