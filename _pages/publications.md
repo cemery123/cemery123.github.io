@@ -9,6 +9,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+### [TCAD 2025] <u>Zhihao Xu</u>, Shikai Guo(supervior), Guilin Zhao, Peiyu Zou, Xiaochen Li, He Jiang(*), A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (SCI, CCFA)
+
+In this work, we implemented a novel FPGA synthesis test case generator. By using the powerful model library support of HDL coder, we can generate test cases that are more in line with engineering practice. Our method found 20 vulnerabilities, and the experiment proved that our method is effective.
+
+
 ### [FSE 2022] Shikai Guo (supervior), He Jiang (*), <u>Zhihao Xu</u>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen, Detecting Simulink Compiler Bugs via Controllable Zombie Blocks Mutation, The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2022), Singapore, November 14-18, 2022.  (EI, CCF A)
 
 In this project, we employed a novel approach - Controlled Zombie Block Mutation (CZBM) - to detect defects in Matlab's simulation tool Simulink. Our approach leveraged the features of Simulink and successfully detected 16 Simulink defects in a two-month period, ensuring the reliability of Simulink.
@@ -24,10 +29,6 @@ In software projects, software defects are inevitable and can seriously affect t
 ### [TOSEM 2023]  Shikai Guo(supervior), Zixuan Wang, <u>Zhihao Xu</u>, Xiaochen Li, He Jiang (*). Detecting Simulink Compiler Bugs via Mutation Region Enrichment with Equivalence Modulo Input,ACM Transactions on Software Engineering and Methodology. (Major). (SCI, CCF A)
 
 This is an advanced work on FSE, where we propose a novel mutation approach that outperforms FSE and achieves higher coverage. We are currently responding to the review.
-
-### [TCAD 2024] <u>Zhihao Xu</u>, Shikai Guo(supervior), Guilin Zhao, Peiyu Zou, Xiaochen Li, He Jiang(*), A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (Major). (SCI, CCFA)
-
-In this work, we implemented a novel FPGA synthesis test case generator. By using the powerful model library support of HDL coder, we can generate test cases that are more in line with engineering practice. Our method found 20 vulnerabilities, and the experiment proved that our method is effective.
 
 ### [TODAES 2024]Shikai Guo(supervior, *), Xiaoyu Wang, <u>Zhihao Xu</u>, Xiaochen Li, He Jiang. A Novel Interactive-Guided Differential Testing Approach for FPGA Simulation Debugger Tools, ACM Transactions on Design Automation of Electronic Systems. (Major). (SCI, CCFB)
 
