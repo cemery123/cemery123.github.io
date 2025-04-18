@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-### [TCAD 2025] <u>Zhihao Xu</u>, Shikai Guo(supervior,*), Guilin Zhao, Peiyu Zou, Xiaochen Li, He Jiang(*), A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (SCI, CCFA)
+### [TCAD 2025] <u>Zhihao Xu</u>, Shikai Guo(*), Guilin Zhao, Peiyu Zou, Xiaochen Li, He Jiang(*), A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (SCI, CCFA)
 
 In this work, we implemented a novel FPGA synthesis test case generator. By using the powerful model library support of HDL coder, we can generate test cases that are more in line with engineering practice. Our method found 20 vulnerabilities, and the experiment proved that our method is effective.
 
