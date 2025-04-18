@@ -24,7 +24,7 @@ My primary research interests are:
 
 Attention
 ======
-1. Our work: "SIMTAM: Timing Difference Guided RTL Generation for FPGA Simulation Tools Testing" has been accepted by ACM Transactions on Design Automation of Electronic Systems! Looking through the [link](https://dl.acm.org/doi/10.1145/3705730) to check out our work!
+1. Our work: "A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers" has been accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(CCF-A)!
 2. We have strong interests in using LLM for automatic Software Testing, if you have any idea feel free to contact us.
 3. I am seeking Post-doctoral positions for 2026/2027. If you are interested in my CV, please do not hesitate to contact me via email.
 
