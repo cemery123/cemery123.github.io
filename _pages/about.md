@@ -26,9 +26,9 @@ redirect_from:
 
 - **Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
-  <span style="font-size:13px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
+  <span style="font-size:15px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
 
-  <span style="font-size:14px;"> *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Singapore, April 2022. </span>
+  <span style="font-size:15px;"> *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Singapore, April 2022. </span>
 
   [[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
   [[code](https://github.com/cemery123/COMBAT)]
