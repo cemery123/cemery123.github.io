@@ -24,7 +24,7 @@ redirect_from:
 
 ## Conference
 
-- `ASE'24` **Detecting Simulink compiler bugs via controllable zombie blocks mutation**
+- `FSE'22` **Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
   <span style="font-size:15px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
 
@@ -35,7 +35,7 @@ redirect_from:
 
 ## Journal
 
-- &nbsp; <span class="badge">TODAES'25</span> &nbsp; **SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
+- `TODAES'25` **SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
 
@@ -44,7 +44,7 @@ redirect_from:
   [[paper](https://dl.acm.org/doi/10.1145/3705730)]
   [[code](https://github.com/cemery123/SIMTAM)]
 
-- &nbsp; <span class="badge">TCAD'25</span> &nbsp;**A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
+- `TCAD'25` **A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Xiaochen Li, Peiyu Zou, He Jiang.</span>
 
