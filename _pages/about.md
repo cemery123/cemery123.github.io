@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+📖 Zhihao Xu is a Ph.D. candidate of Computer Science in Southeast University(<a href='https://www.seu.edu.cn/'>SEU</a>) and Monash University(<a href='https://www.monash.edu/'>Monash</a>). His supervisor are <a href='https://cs.seu.edu.cn/bxli/main.htm'>Prof. Bixin Li</a> and <a href='https://xiaoningdu.github.io/'>Prof. Xiaoning Du</a>. Before joining SEU and Monash, he received his Master degree of Computer Science in Dalian Maritime University(DLMU) Co-supervised by <a href='https://scholar.google.com/citations?user=8P9xfewAAAAJ&hl=en'>Prof.Shikai Guo</a> and <a href='https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm'>Prof He Jiang</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+🔍 My research includes Software Engineering(SE), Electronic Design  Automation(EDA) and Open-Source System Instruction Set Architecture(RISC-V). I hope to explore how to use AI technology to improve the efficiency and accuracy of software testing, especially in embedded systems with limited hardware resources.
 
 
 # 🔥 News
