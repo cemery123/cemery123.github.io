@@ -24,33 +24,40 @@ redirect_from:
 
 ## Conference
 
-<span class="badge">ICLR'25</span> &nbsp;**OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?**
+- &nbsp; <span class="badge">FSE'25</span> &nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
-  <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Qinan Zhang, Zhiqing Zhong, Shilin He, Chaoyun Zhang, Qingwei Lin, Dan Pei, Pinjia He, Dongmei Zhang, Qi Zhang.</span>
+  <span style="font-size:13px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
 
-  <span style="font-size:14px;"> *International Conference on Learning Representations*, Singapore, April 2025. </span>
+  <span style="font-size:14px;"> *The 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Singapore, April 2022. </span>
 
-  [[paper](https://openreview.net/pdf?id=M4qNIzQYpd)]
-  [[code](https://github.com/microsoft/OpenRCA)]
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549159)]
+  [[code](https://github.com/cemery123/COMBAT)]
 
-<div class='paper-box'><div class="badge">FSE</div>Detecting Simulink compiler bugs via controllable zombie blocks mutation</div>
-<div class='paper-box-text' markdown="1">
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-</div>
+## Journal
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- &nbsp; <span class="badge">TODAES'25</span> &nbsp;**SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
+
+  <span style="font-size:13px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
+
+  <span style="font-size:14px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (CCF-B, JCR Q2)</span>
+
+  [[paper](https://dl.acm.org/doi/10.1145/3705730)]
+  [[code](https://github.com/cemery123/SIMTAM)]
+
+- &nbsp; <span class="badge">TCAD'25</span> &nbsp;**A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
+
+  <span style="font-size:13px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Xiaochen Li, Peiyu Zou, He Jiang.</span>
+
+  <span style="font-size:14px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (CCF-A, JCR Q2)</span>
+
+  [[paper](https://arxiv.org/abs/2407.12037)]
+  [[code](https://github.com/cemery123/legohdl)]
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* COSCO SHIPPING Second Prize Scholarship in DLMU. 
+- *2024.09* First-class academic scholarship in SEU. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - 2025.06 (now)*, Ph.D candidate, Southeast Uinversity, Nanjing. 
+- *2021.09 - 2024.06*, Postgraduate, Dalian Maritime University, Dalian. 
