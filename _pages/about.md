@@ -24,7 +24,7 @@ redirect_from:
 
 ## Conference
 
-- ``FSE'22`` **Detecting Simulink compiler bugs via controllable zombie blocks mutation**
+- <span calss="badge">FSE'22</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
   <span style="font-size:15px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
 
