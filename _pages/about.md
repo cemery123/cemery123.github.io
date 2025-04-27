@@ -24,7 +24,7 @@ redirect_from:
 
 ## Conference
 
-- <span class="badge">FSE'22</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
+- <span class="badge">FSE'22</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
   <span style="font-size:15px;"> Shikai Guo, He Jiang (*), <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, Zhilei Ren, Zide Zhou, Rong Chen.</span>
 
@@ -35,7 +35,7 @@ redirect_from:
 
 ## Journal
 
-- <span class="badge">TODAES'25</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
+- <span class="badge">TODAES'25</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
 
