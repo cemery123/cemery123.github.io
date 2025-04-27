@@ -23,7 +23,6 @@ redirect_from:
 # 📝 Publications 
 
 ## Conference
-&nbsp;<span class="badge">FSE'25</span> &nbsp;*a*
 
   **Detecting Simulink compiler bugs via controllable zombie blocks mutation**
 
