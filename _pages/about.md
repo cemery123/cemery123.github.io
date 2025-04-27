@@ -22,15 +22,6 @@ redirect_from:
 
 # 📝 Publications 
 
-- &nbsp; <span class="badge">ICLR'25</span> &nbsp;**OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?**
-
-  <span style="font-size:13px;"> <strong><em>Junjielong Xu</em></strong>, Qinan Zhang, Zhiqing Zhong, Shilin He, Chaoyun Zhang, Qingwei Lin, Dan Pei, Pinjia He, Dongmei Zhang, Qi Zhang.</span>
-
-  <span style="font-size:14px;"> *International Conference on Learning Representations*, Singapore, April 2025. </span>
-
-  [[paper](https://openreview.net/pdf?id=M4qNIzQYpd)]
-  [[code](https://github.com/microsoft/OpenRCA)]
-
 ## Conference
 
 - &nbsp; <span class="badge">FSE'25</span> &nbsp;**Detecting Simulink compiler bugs via controllable zombie blocks mutation**
