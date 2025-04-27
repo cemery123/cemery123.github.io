@@ -37,18 +37,18 @@ redirect_from:
 
 - &nbsp; <span class="badge">TODAES'25</span> &nbsp; **SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
 
-  <span style="font-size:13px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
 
-  <span style="font-size:14px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (CCF-B, JCR Q2)</span>
+  <span style="font-size:15px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (CCF-B, JCR Q2)</span>
 
   [[paper](https://dl.acm.org/doi/10.1145/3705730)]
   [[code](https://github.com/cemery123/SIMTAM)]
 
 - &nbsp; <span class="badge">TCAD'25</span> &nbsp;**A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
 
-  <span style="font-size:13px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Xiaochen Li, Peiyu Zou, He Jiang.</span>
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Xiaochen Li, Peiyu Zou, He Jiang.</span>
 
-  <span style="font-size:14px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (CCF-A, JCR Q2)</span>
+  <span style="font-size:15px;"> In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (CCF-A, JCR Q2)</span>
 
   [[paper](https://arxiv.org/abs/2407.12037)]
   [[code](https://github.com/cemery123/legohdl)]
