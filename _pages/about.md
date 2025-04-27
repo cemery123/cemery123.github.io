@@ -35,7 +35,7 @@ redirect_from:
 
 ## Journal
 
-- `TODAES'25` **SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
+- <span class="badge">TODAES'25</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SIMTAM: Generation Diversity Test Programs for FPGA Simulation Tools Testing Via Timing Area Mutation**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
 
@@ -44,7 +44,7 @@ redirect_from:
   [[paper](https://dl.acm.org/doi/10.1145/3705730)]
   [[code](https://github.com/cemery123/SIMTAM)]
 
-- `TCAD'25` **A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
+- <span class="badge">TCAD'25</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A Novel HDL Code Generator for Effectively Testing FPGA Logic Synthesis Compilers**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao, Xiaochen Li, Peiyu Zou, He Jiang.</span>
 
