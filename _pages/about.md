@@ -17,6 +17,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 I get **CSC** to support my Ph.D. Study in Australia!
 - *2025.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
 - *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by **TODAES**!
 
