@@ -54,6 +54,12 @@ redirect_from:
   [[paper](https://arxiv.org/abs/2407.12037)]
   [[code](https://github.com/cemery123/legohdl)]
 
+- <span class="badge">SPE'23</span> &nbsp;**Feature transfer learning by reinforcement learning for detecting software defect**
+
+  <span style="font-size:15px;"> Shikai Guo, Jiahui Wang, <strong><em>Zhihao Xu</em></strong>, Lin Huang, Hui Li, Rong Chen.</span>
+
+  <span style="font-size:15px;"> In *Software: Practice and Experience*, 2025. (CCF-B, JCR Q2)</span>
+
 
 # 🎖 Honors and Awards
 - *2022.10* COSCO SHIPPING Second Prize Scholarship in DLMU. 
