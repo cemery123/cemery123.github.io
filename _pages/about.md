@@ -103,7 +103,7 @@ redirect_from:
   zone mutation,” Utility Model Patent CN202210983410.7, Granted on Oct.~15, 2024.
 
 # 🥇 Internships
-- 2019 Yantai Science and Technology Project, Host
-- 2022 National Natural Science Foundation of China (No. 62472062), Participant
-- 2023 Dalian Excellent Young Project (No. 2022RY35), Participant
-- 2024 Fundamental Research Funds for the Central Universities (No. 3132024257), Participant
+- 2019 Yantai Science and Technology Project, *Host*
+- 2022 National Natural Science Foundation of China (No. 62472062), *Participant*
+- 2023 Dalian Excellent Young Project (No. 2022RY35), *Participant*
+- 2024 Fundamental Research Funds for the Central Universities (No. 3132024257), *Participant*
