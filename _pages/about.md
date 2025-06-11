@@ -60,6 +60,27 @@ redirect_from:
 
   <span style="font-size:15px;"> In *Software: Practice and Experience*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
+## Under Review
+
+- <span class="badge">TCE'23</span> &nbsp;**Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization**
+
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao,  Peiyu Zou, Xiaochen Li, He Jiang</span>
+
+  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Consumer Electronics (TCE)*, 2025. (<span style="color:red">CCF-A</span>JCR Q1</span>)</span>
+
+- <span class="badge">TCAD'25</span> &nbsp;**TRAGIC: Test Oracle Generation for ISA Compliance Testing via Large Language Model**
+
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Xiaoning Du, Lulu Wang, Li Liao, Ying Zhou.</span>
+
+  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q2)</span>
+
+- <span class="badge">TCAD'25</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
+
+  <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
+
+  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q2)</span>
+
+
 
 # 🎖 Honors and Awards
 - *2022.10* COSCO SHIPPING Second Prize Scholarship in DLMU. 
