@@ -40,7 +40,7 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
 
-  <span style="font-size:15px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (CCF-B, JCR Q2)</span>
+  <span style="font-size:15px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
   [[paper](https://dl.acm.org/doi/10.1145/3705730)]
   [[code](https://github.com/cemery123/SIMTAM)]
@@ -58,7 +58,7 @@ redirect_from:
 
   <span style="font-size:15px;"> Shikai Guo, Jiahui Wang, <strong><em>Zhihao Xu</em></strong>, Lin Huang, Hui Li, Rong Chen.</span>
 
-  <span style="font-size:15px;"> In *Software: Practice and Experience*, 2025. (CCF-B, JCR Q2)</span>
+  <span style="font-size:15px;"> In *Software: Practice and Experience*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
 
 # 🎖 Honors and Awards
