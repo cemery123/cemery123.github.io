@@ -100,7 +100,7 @@ redirect_from:
 - S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “A simulink detection method based on controllable base
   mutations,” Utility Model Patent CN202210348499.X, Substantive review completed, Sep. 15, 2022.
 - S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “Simulation software testing method based on hibernation
-  zone mutation,” Utility Model Patent CN202210983410.7, Granted on Oct.~15, 2024, Oct. 15, 2022
+  zone mutation,” Utility Model Patent CN202210983410.7, Granted on Oct.~15, 2024.
 
 # 🥇 Internships
 - 2019 Yantai Science and Technology Project, Host
