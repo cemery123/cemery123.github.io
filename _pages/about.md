@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📖 Zhihao Xu is a Ph.D. candidate of Computer Science in Southeast University(<a href='https://www.seu.edu.cn/'>SEU</a>) and Monash University(<a href='https://www.monash.edu/'>Monash</a>). His supervisor are <a href='https://cs.seu.edu.cn/bxli/main.htm'>Prof. Bixin Li</a> and <a href='https://xiaoningdu.github.io/'>Prof. Xiaoning Du</a>. Before joining SEU and Monash, he received his Master degree of Computer Science in Dalian Maritime University(DLMU) Co-supervised by <a href='https://scholar.google.com/citations?user=8P9xfewAAAAJ&hl=en'>Prof.Shikai Guo</a> and <a href='https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm'>Prof He Jiang</a>.
+📖 Zhihao Xu is a Ph.D. candidate of Computer Science in Southeast University(<a href='https://www.seu.edu.cn/'>SEU</a>) and Monash University(<a href='https://www.monash.edu/'>Monash</a>). His supervisors are <a href='https://cs.seu.edu.cn/bxli/main.htm'>Prof. Bixin Li</a> and <a href='https://xiaoningdu.github.io/'>Prof. Xiaoning Du</a>. Before joining SEU and Monash, he received his Master degree of Computer Science in Dalian Maritime University(DLMU) co-supervised by <a href='https://scholar.google.com/citations?user=8P9xfewAAAAJ&hl=en'>Prof.Shikai Guo</a> and <a href='https://faculty.dlut.edu.cn/jianghe/zh_CN/index.htm'>Prof He Jiang</a>.
 
 🔍 My research includes Software Engineering(SE), Electronic Design  Automation(EDA) and Open-Source System Instruction Set Architecture(RISC-V). I hope to explore how to use AI technology to improve the efficiency and accuracy of software testing, especially in embedded systems with limited hardware resources.
 
@@ -79,3 +79,8 @@ redirect_from:
   mutations,” Utility Model Patent CN202210348499.X, Substantive review completed, Sep. 15, 2022.
 - S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “Simulation software testing method based on hibernation
   zone mutation,” Utility Model Patent CN202210983410.7, Substantive review completed, Oct. 15, 2022
+# Intership
+- 2019 Yantai Science and Technology Project, Host
+- 2022 National Natural Science Foundation of China (No. 62472062), Participant
+- 2023 Dalian Excellent Young Project (No. 2022RY35), Participant
+- 2024 Fundamental Research Funds for the Central Universities (No. 3132024257), Participant
