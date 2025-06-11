@@ -66,7 +66,7 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao,  Peiyu Zou, Xiaochen Li, He Jiang</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Consumer Electronics (TCE)*, 2025. (<span style="color:red">CCF-A</span>JCR Q1</span>)</span>
+  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Consumer Electronics (TCE)*, 2025. (<span style="color:red">JCR Q1</span>)</span>
 
 - <span class="badge">TCAD'25</span> &nbsp;**TRAGIC: Test Oracle Generation for ISA Compliance Testing via Large Language Model**
 
