@@ -68,6 +68,7 @@ redirect_from:
 # 📖 Educations
 - *2024.09 - 2025.06 (now)*, Ph.D candidate, Southeast Uinversity, Nanjing. 
 - *2021.09 - 2024.06*, Postgraduate, Dalian Maritime University, Dalian.
+
 # 🧱 Utility Model Patents
 - S. Guo, Z. Xu, X. Li, and H. Jiang, “Simulation software testing method based on sleep zone mutation,”
   Utility Model Patent CN202310123179.9, Substantive review completed, Feb. 20, 2023.
@@ -79,6 +80,7 @@ redirect_from:
   mutations,” Utility Model Patent CN202210348499.X, Substantive review completed, Sep. 15, 2022.
 - S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “Simulation software testing method based on hibernation
   zone mutation,” Utility Model Patent CN202210983410.7, Substantive review completed, Oct. 15, 2022
+
 # 🥇 Internships
 - 2019 Yantai Science and Technology Project, Host
 - 2022 National Natural Science Foundation of China (No. 62472062), Participant
