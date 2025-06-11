@@ -84,7 +84,8 @@ redirect_from:
 
 # 🎖 Honors and Awards
 - *2022.10* COSCO SHIPPING Second Prize Scholarship in DLMU. 
-- *2024.09* First-class academic scholarship in SEU. 
+- *2024.09* First-class academic scholarship in SEU.
+- *2025.05* Chinese Scholarship Council full award in Monash.
 
 # 📖 Educations
 - *2024.09 - 2025.06 (now)*, Ph.D candidate, Southeast Uinversity, Nanjing. 
