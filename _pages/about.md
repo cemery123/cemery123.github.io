@@ -69,7 +69,7 @@ redirect_from:
 
 ## Under Review
 
-- <span class="badge">TCAD'25</span> &nbsp;**Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization**
+- <span class="badge">TCAD'25</span> &nbsp;**Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao,  Peiyu Zou, Xiaochen Li, He Jiang</span>
 
