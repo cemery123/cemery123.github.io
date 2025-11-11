@@ -77,7 +77,7 @@ redirect_from:
 
 - <span class="badge">TRETS'25</span> &nbsp;**Rethinking LLM-aided  RTL Code Optimization Via Timing Logic Metamorphosis**
 
-  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Xiaoning Du, Lulu Wang, Li Liao, Ying Zhou.</span>
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Ran Yan, Lulu Wang.</span>
 
   <span style="font-size:15px;"> Manuscript submitted to *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
 
