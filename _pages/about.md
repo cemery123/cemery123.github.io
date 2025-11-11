@@ -17,6 +17,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**! Many thanks to my supervisor Prof. Li and Prof. Du
 - *2025.05*: &nbsp;🎉🎉 I get **CSC** to support my Ph.D. Study in Australia!
 - *2025.04*: &nbsp;🎉🎉 Our paper has been accepted by **TCAD**!
 - *2024.11*: &nbsp;🎉🎉 Our paper has been accepted by **TODAES**!
@@ -40,7 +41,7 @@ redirect_from:
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Xiaochen Li, Zun Wang, He Jiang.</span>
 
-  <span style="font-size:15px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q2)</span>
+  <span style="font-size:15px;"> In *ACM Transactions on Design Automation of Electronic Systems*, 2025. (<span style="color:blue">CCF-B</span>, JCR Q1)</span>
 
   [[paper](https://dl.acm.org/doi/10.1145/3705730)]
   [[code](https://github.com/cemery123/SIMTAM)]
@@ -68,23 +69,29 @@ redirect_from:
 
 ## Under Review
 
-- <span class="badge">TCE'23</span> &nbsp;**Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization**
+- <span class="badge">TCAD'25</span> &nbsp;**Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Guilin Zhao,  Peiyu Zou, Xiaochen Li, He Jiang</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Consumer Electronics (TCE)*, 2025. (<span style="color:red">JCR Q1</span>)</span>
+  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
 
-- <span class="badge">TCAD'25</span> &nbsp;**TRAGIC: Test Oracle Generation for ISA Compliance Testing via Large Language Model**
+- <span class="badge">TRETS'25</span> &nbsp;**Rethinking LLM-aided  RTL Code Optimization Via Timing Logic Metamorphosis**
 
   <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Bixin Li, Xiaoning Du, Lulu Wang, Li Liao, Ying Zhou.</span>
 
-  <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q1)</span>
+  <span style="font-size:15px;"> Manuscript submitted to *ACM Transactions on Reconfigurable Technology and Systems*, 2025. (<span style="color:red">CCF-B</span>, JCR Q2)</span>
 
 - <span class="badge">TCAD'25</span> &nbsp;**Generating Syntax Valid Verilog Programs with Large Language Model to Find Bugs in Logic Synthesis Tools**
 
   <span style="font-size:15px;"> Shikai Guo, Wen Zhao, <strong><em>Zhihao Xu</em></strong>, Xiaochen Li, He Jiang.</span>
 
   <span style="font-size:15px;"> Manuscript submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2025. (<span style="color:red">CCF-A</span>, JCR Q2)</span>
+
+- <span class="badge">DAC'26</span> &nbsp;**RL4HDL: Code Diversity Guided FPGA Logic Synthesis Compiler Testing Via Reinforce Learning**
+
+  <span style="font-size:15px;"> <strong><em>Zhihao Xu</em></strong>, Shikai Guo, Hui Zeng, Qian Ma, Hui Li, Xiaochen Li, He Jiang.</span>
+
+  <span style="font-size:15px;"> Manuscript submitted to *The 63rd ACM/IEEE The Chips to Systems Conference*, 2026. (<span style="color:red">CCF-A</span>)</span>
 
 
 
@@ -99,9 +106,9 @@ redirect_from:
 
 # 🧱 Utility Model Patents
 - S. Guo, Z. Xu, X. Li, and H. Jiang, “Simulation software testing method based on sleep zone mutation,”
-  Utility Model Patent CN202310123179.9, Substantive review completed, Feb. 20, 2023.
+  Utility Model Patent CN202310123179.9, Authorized, Feb. 20, 2025.
 - H. Li, X. Qi, Z. Xu, S. Guo, X. Li, and H. Jiang, “A method to improve jt defect prediction performance,”
-  Utility Model Patent CN202310112490.3, Substantive review completed, Jan. 10, 2023.
+  Utility Model Patent CN202310112490.3, Authorized, Jan. 10, 2025.
 - S. Guo and Z. Xu, “Simulation software testing method based on code generation,” Utility Model Patent
  CN202210946320.0, Substantive review completed, Nov. 3, 2022.
 - S. Guo, Z. Xu, X. Shang, H. Li, and R. Chen, “A simulink detection method based on controllable base
